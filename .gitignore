@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+data/
+
+# Currículos e Arquivos Pessoais (Proteção de Dados no GitHub Público)
+*.pdf
+curriculo.html
+curriculo-en.html
+curriculo-atualizado.txt
+gerar-pdf.ts
